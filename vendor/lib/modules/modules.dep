@@ -1,0 +1,74 @@
+/vendor/lib/modules/ath9k_hw.ko: /vendor/lib/modules/ath.ko
+/vendor/lib/modules/r8723bs.ko:
+/vendor/lib/modules/rtllib_crypt_ccmp.ko:
+/vendor/lib/modules/ath6kl_usb.ko: /vendor/lib/modules/ath6kl_core.ko
+/vendor/lib/modules/btusb.ko: /vendor/lib/modules/btrtl.ko /vendor/lib/modules/btbcm.ko /vendor/lib/modules/btintel.ko
+/vendor/lib/modules/rtl8192ce.ko: /vendor/lib/modules/rtl_pci.ko /vendor/lib/modules/rtl8192c-common.ko /vendor/lib/modules/rtlwifi.ko
+/vendor/lib/modules/rndis_wlan.ko:
+/vendor/lib/modules/r8188eu.ko:
+/vendor/lib/modules/rtl_pci.ko: /vendor/lib/modules/rtlwifi.ko
+/vendor/lib/modules/rtlwifi.ko:
+/vendor/lib/modules/rtl2832.ko:
+/vendor/lib/modules/rtl8723-common.ko: /vendor/lib/modules/rtlwifi.ko
+/vendor/lib/modules/carl9170.ko: /vendor/lib/modules/ath.ko
+/vendor/lib/modules/8814au.ko:
+/vendor/lib/modules/hidp.ko:
+/vendor/lib/modules/ath9k_htc.ko: /vendor/lib/modules/ath9k_common.ko /vendor/lib/modules/ath9k_hw.ko /vendor/lib/modules/ath.ko
+/vendor/lib/modules/zd1201.ko:
+/vendor/lib/modules/r8822be.ko:
+/vendor/lib/modules/rtl8192se.ko: /vendor/lib/modules/rtl_pci.ko /vendor/lib/modules/rtlwifi.ko
+/vendor/lib/modules/bfusb.ko:
+/vendor/lib/modules/rt2800mmio.ko: /vendor/lib/modules/rt2800lib.ko /vendor/lib/modules/rt2x00mmio.ko /vendor/lib/modules/rt2x00lib.ko
+/vendor/lib/modules/rtl2830.ko:
+/vendor/lib/modules/asix.ko:
+/vendor/lib/modules/r8192e_pci.ko: /vendor/lib/modules/rtllib.ko
+/vendor/lib/modules/btcoexist.ko: /vendor/lib/modules/rtlwifi.ko
+/vendor/lib/modules/rtl8xxxu.ko:
+/vendor/lib/modules/rtl8821ae.ko: /vendor/lib/modules/btcoexist.ko /vendor/lib/modules/rtl_pci.ko /vendor/lib/modules/rtlwifi.ko
+/vendor/lib/modules/airspy.ko:
+/vendor/lib/modules/rtl8192c-common.ko: /vendor/lib/modules/rtlwifi.ko
+/vendor/lib/modules/rtl8192ee.ko: /vendor/lib/modules/btcoexist.ko /vendor/lib/modules/rtl_pci.ko /vendor/lib/modules/rtlwifi.ko
+/vendor/lib/modules/bpa10x.ko: /vendor/lib/modules/hci_uart.ko
+/vendor/lib/modules/ath6kl_core.ko:
+/vendor/lib/modules/hackrf.ko:
+/vendor/lib/modules/msi2500.ko:
+/vendor/lib/modules/rt2x00usb.ko: /vendor/lib/modules/rt2x00lib.ko
+/vendor/lib/modules/zd1211rw.ko:
+/vendor/lib/modules/ath9k_common.ko: /vendor/lib/modules/ath9k_hw.ko /vendor/lib/modules/ath.ko
+/vendor/lib/modules/r8712u.ko:
+/vendor/lib/modules/rtl8723be.ko: /vendor/lib/modules/rtl8723-common.ko /vendor/lib/modules/btcoexist.ko /vendor/lib/modules/rtl_pci.ko /vendor/lib/modules/rtlwifi.ko
+/vendor/lib/modules/msi001.ko:
+/vendor/lib/modules/hci_uart.ko:
+/vendor/lib/modules/ath.ko:
+/vendor/lib/modules/rt2500pci.ko: /vendor/lib/modules/rt2x00pci.ko /vendor/lib/modules/rt2x00mmio.ko /vendor/lib/modules/rt2x00lib.ko
+/vendor/lib/modules/rtl8723ae.ko: /vendor/lib/modules/rtl8723-common.ko /vendor/lib/modules/btcoexist.ko /vendor/lib/modules/rtl_pci.ko /vendor/lib/modules/rtlwifi.ko
+/vendor/lib/modules/rts5208.ko:
+/vendor/lib/modules/rtl8188ee.ko: /vendor/lib/modules/rtl_pci.ko /vendor/lib/modules/rtlwifi.ko
+/vendor/lib/modules/rtl8192de.ko: /vendor/lib/modules/rtl_pci.ko /vendor/lib/modules/rtlwifi.ko
+/vendor/lib/modules/88XXau.ko:
+/vendor/lib/modules/rtllib.ko:
+/vendor/lib/modules/rt2800usb.ko: /vendor/lib/modules/rt2x00usb.ko /vendor/lib/modules/rt2800lib.ko /vendor/lib/modules/rt2x00lib.ko
+/vendor/lib/modules/rtl8187.ko:
+/vendor/lib/modules/rt2x00lib.ko:
+/vendor/lib/modules/btbcm.ko:
+/vendor/lib/modules/rt2800lib.ko: /vendor/lib/modules/rt2x00lib.ko
+/vendor/lib/modules/rfcomm.ko:
+/vendor/lib/modules/rtl2832_sdr.ko:
+/vendor/lib/modules/rt2500usb.ko: /vendor/lib/modules/rt2x00usb.ko /vendor/lib/modules/rt2x00lib.ko
+/vendor/lib/modules/rt73usb.ko: /vendor/lib/modules/rt2x00usb.ko /vendor/lib/modules/rt2x00lib.ko
+/vendor/lib/modules/rt61pci.ko: /vendor/lib/modules/rt2x00pci.ko /vendor/lib/modules/rt2x00mmio.ko /vendor/lib/modules/rt2x00lib.ko
+/vendor/lib/modules/bnep.ko:
+/vendor/lib/modules/ax88179_178a.ko:
+/vendor/lib/modules/bcm203x.ko:
+/vendor/lib/modules/rtl818x_pci.ko:
+/vendor/lib/modules/rt2x00pci.ko: /vendor/lib/modules/rt2x00lib.ko
+/vendor/lib/modules/btintel.ko:
+/vendor/lib/modules/mac80211_hwsim.ko:
+/vendor/lib/modules/rt2800pci.ko: /vendor/lib/modules/rt2800mmio.ko /vendor/lib/modules/rt2800lib.ko /vendor/lib/modules/rt2x00pci.ko /vendor/lib/modules/rt2x00mmio.ko /vendor/lib/modules/rt2x00lib.ko
+/vendor/lib/modules/rt2x00mmio.ko: /vendor/lib/modules/rt2x00lib.ko
+/vendor/lib/modules/rtl_usb.ko: /vendor/lib/modules/rtlwifi.ko
+/vendor/lib/modules/btsdio.ko:
+/vendor/lib/modules/rtl8192cu.ko: /vendor/lib/modules/rtl_usb.ko /vendor/lib/modules/rtl8192c-common.ko /vendor/lib/modules/rtlwifi.ko
+/vendor/lib/modules/btrtl.ko:
+/vendor/lib/modules/mt7601u.ko:
+/vendor/lib/modules/rt2400pci.ko: /vendor/lib/modules/rt2x00pci.ko /vendor/lib/modules/rt2x00mmio.ko /vendor/lib/modules/rt2x00lib.ko
